@@ -1,6 +1,6 @@
 {
   "name": "keepit",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Save fabulous npm packages to use them later",
   "main": "lib/index.js",
   "scripts": {
