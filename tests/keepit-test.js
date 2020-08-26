@@ -1,11 +1,11 @@
 'use strict';
 
-const assert = require('assert');
+// const assert = require('assert');
 
-const {
-	Keepit,
-	KeepitError
-} = require('../lib');
+// const {
+// 	Keepit,
+// 	KeepitError
+// } = require('../lib');
 
 describe('Keepit', () => {
 
